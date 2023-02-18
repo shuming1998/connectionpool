@@ -1,3 +1,3 @@
-# connectionpooling
+# connection pool
 
 db connection pool
