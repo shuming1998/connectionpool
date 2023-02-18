@@ -1,3 +1,3 @@
-# Connection_Pooling
+# connectionpooling
 
-MySQL Connection Pooling
+db connection pool
